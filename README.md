@@ -1,4 +1,5 @@
 # DynamicComponent
+The demo version of this application can be seen from the link - https://shimanskayaelena.github.io/dynamic-component/
 
 Test( Typescript/Angular 2 )
 
